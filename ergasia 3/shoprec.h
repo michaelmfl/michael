@@ -1,0 +1,1 @@
+int shop(int m, int n, int *k, int **c);
